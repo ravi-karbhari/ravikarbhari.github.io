@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ravikarbhari.github.io/static/css/main.ef64db35.css",
-    "main.js": "/ravikarbhari.github.io/static/js/main.e878d3c4.js",
+    "main.js": "/ravikarbhari.github.io/static/js/main.f6c8c5b1.js",
     "static/js/787.95aaab1a.chunk.js": "/ravikarbhari.github.io/static/js/787.95aaab1a.chunk.js",
     "static/media/about-banner.png": "/ravikarbhari.github.io/static/media/about-banner.f295c5dc964e4e9aaa72.png",
     "index.html": "/ravikarbhari.github.io/index.html",
     "main.ef64db35.css.map": "/ravikarbhari.github.io/static/css/main.ef64db35.css.map",
-    "main.e878d3c4.js.map": "/ravikarbhari.github.io/static/js/main.e878d3c4.js.map",
+    "main.f6c8c5b1.js.map": "/ravikarbhari.github.io/static/js/main.f6c8c5b1.js.map",
     "787.95aaab1a.chunk.js.map": "/ravikarbhari.github.io/static/js/787.95aaab1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef64db35.css",
-    "static/js/main.e878d3c4.js"
+    "static/js/main.f6c8c5b1.js"
   ]
 }
